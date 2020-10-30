@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Safety Button</string>
+    <string name="channel_name">SafetyButtonNotificationChannel</string>
+    <string name="channel_description">SafetyButtonNotificationChannelDescription</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
